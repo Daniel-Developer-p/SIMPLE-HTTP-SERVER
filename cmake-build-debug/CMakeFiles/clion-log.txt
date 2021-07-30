@@ -1,0 +1,4 @@
+"/Users/daniil/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.4746.93/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/daniil/CLionProjects/HttpServer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/daniil/CLionProjects/HttpServer/cmake-build-debug
